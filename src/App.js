@@ -75,6 +75,7 @@ function App() {
                         <a href="https://twitter.com/PnkajGupta1" target="_blank"><i class="fab fa-twitter-square"></i></a>
                         <a href="https://www.instagram.com/pankajgupta_25/" target="_blank"><i class="fab fa-instagram"></i></a>
                         <a href="https://www.linkedin.com/in/pankajgupta2025/" target="_blank"><i class="fab fa-linkedin"></i></a>
+			<a href="https://github.com/Me-Pankaj" target="_blank"><i class="fab fa-github"></i></a>
 
 				</div>
 
